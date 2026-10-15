@@ -1,0 +1,5 @@
+# build output: galleries / tests write to ./out of the current directory
+out/
+__pycache__/
+*.pyc
+.DS_Store
